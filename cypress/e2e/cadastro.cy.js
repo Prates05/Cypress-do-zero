@@ -10,7 +10,5 @@ describe('Be The Hero', () => {
 
         cy.get('.button').click();
 
-
-
     });
 });
